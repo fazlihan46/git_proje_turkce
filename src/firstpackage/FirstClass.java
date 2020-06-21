@@ -1,6 +1,6 @@
 package firstpackage;
 
-public class FirstProje {
+public class FirstClass {
 
 	public static void main(String[] args) {
 		System.out.println("firs commit from local repository");
